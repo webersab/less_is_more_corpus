@@ -1,4 +1,4 @@
-**Less is More? The Role of Demographic Author Information in Emotion Classification of Ambiguous Text**
+# Less is More? The Role of Demographic Author Information in Emotion Classification of Ambiguous Text
 
 This repository contains the dataset associated with the paper
 
